@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Olya :)  Nice to see you 🤗 
+<img src="[Olga3.png](https://github.com/lolik7447/lolik7447/blob/main/Olga3.png)" height="32"/></h1>
+<h3 align="center">Welcome to my page!</h3> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/NCh5G1KuRsXPa/giphy.gif" width="400"/>
+</div>
+<h2 align="center">🤝 Connect with me:
+<a href="(https://www.linkedin.com/in/olga-maksimova74/)"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="31px"/></a>
+<a href="https://www.t.me/lolichka74"><img align="center" src="https://sz58.ru/wp-content/uploads/telegram.png" alt="Yu Shi | Telegram" width="31px"/></a>
+</br>
 
-<!--
-**lolik7447/lolik7447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📜 My CV 
 
-Here are some ideas to get you started:
+[link](https://drive.google.com/file/d/1BWuSxNC0JNvbKNFxutHQ11prfZWpinWS/view?usp=drive_link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Some Tools I Use
+<div>
