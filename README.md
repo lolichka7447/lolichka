@@ -17,5 +17,4 @@
 
 ## 📜 [My Resume](https://drive.google.com/file/d/1BWuSxNC0JNvbKNFxutHQ11prfZWpinWS/view?usp=drive_link)
 
-## 🚀 Some Tools I Use
 <div>
