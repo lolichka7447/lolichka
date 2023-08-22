@@ -1,7 +1,3 @@
-<div id="image" align="center">
-  <img src="https://github.com/lolik7447/lolik7447/blob/main/Olga3.png" height="200"/></h1>
-  </div>
-
 <h1 align="center">Hi, I'm Olya :)  Nice to see you 🤗 
   
 <h3 align="center">Welcome to my page!</h3> 
