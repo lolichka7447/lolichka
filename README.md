@@ -11,5 +11,5 @@
 <a href="https://www.t.me/lolichka74"><img align="center" src="https://sz58.ru/wp-content/uploads/telegram.png" alt="Yu Shi | Telegram" width="31px"/></a>
 </br>
 
-## 📜 [My Resume RU](https://drive.google.com/file/d/1KhZTRS_ENu_ROnNbs2sKrQo6Q0Xhyyif/view?usp=sharing)
+## 📜 [My Resume RU](https://drive.google.com/file/d/1cYjCzYmaiX2tw96YsaURWo7xUH63-_BD/view?usp=sharing)
 <div>
