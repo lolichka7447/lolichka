@@ -13,3 +13,4 @@
 
 ## 📜 [My Resume RU](https://drive.google.com/file/d/1cYjCzYmaiX2tw96YsaURWo7xUH63-_BD/view?usp=sharing)
 <div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lolichka7447)
