@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Olya :)  Nice to see you 🤗 
   
-<h3 align="center">Welcome to my page!</h3> 
-  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NCh5G1KuRsXPa/giphy.gif" width="400"/>
 </div>
